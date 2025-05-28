@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Xiaoman Liu"
   #pronouns         : # example: "she/her"  
-  bio              : "University of Science and Technology of China"
+  bio              : "You gotta get yourself together kid."
   location         : "Earth"
   employer         : #"USTC"
   #uri              : # URL
-  email            : "liuxiaoman@mail.ustc.edu.cn" 
+  email            : #"liuxiaoman@mail.ustc.edu.cn" 
 
   # Academic websites
   academia         : # URL
